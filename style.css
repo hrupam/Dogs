@@ -1,0 +1,42 @@
+h1{
+    color:rgb(219, 56, 119);
+    background-color:gold;
+}
+h2{
+    color: rgb(25, 143, 197);
+    background-color:rgb(168, 221, 201);
+   font-family: "Times New Roman";
+}
+
+#ety
+{
+    color:darkgoldenrod;
+}
+#tax
+{
+    color:crimson;
+}
+#bio
+{
+    color:cornflowerblue;
+}
+#bree
+{
+    color:blueviolet;
+}
+.st
+{
+    color:magenta;
+}
+p
+{
+    color:rgb(32, 158, 106);
+    font-family: cursive;
+    font-weight: bold;
+    
+}
+body{
+    background-color:palegoldenrod;
+    font-family:sans-serif;
+    font-size: 19px;
+}
