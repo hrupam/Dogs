@@ -1,11 +1,12 @@
 h2{
+    
     color: rgb(29, 84, 109);
-    background-color:rgb(168, 221, 201);
+    background-color:rgb(222, 242, 72);
    font-family: "Times New Roman";
    display: inline;
    padding: 2px 7px 3px 7px;
    border: solid 2px #6d1fb7;
-    margin: 3px;
+  
 }
 
 #ety
@@ -30,25 +31,32 @@ h2{
 }
 p
 {
-    color:rgb(32, 158, 106);
+    color:rgb(139, 206, 57);
     font-family: cursive;
     font-weight: bold;
     
 }
 body{
-    background-color:palegoldenrod;
+   
     font-family:sans-serif;
     font-size: 19px;
+    background-image: url("https://free4kwallpaper.com/wp-content/uploads/2016/01/Cutest-Dog-4K-Wallpaper.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    
+    
 }
 li a
 {
     text-decoration: none;
-    color: black;
+    color: rgb(65, 204, 90);
     
 }
 ul
 {
     list-style: none;
+    color: rgb(65, 204, 90);
 }
 img
 {
@@ -59,5 +67,22 @@ img
     border-right: solid 4.2px #ff0000;
     border-top: solid 4.6px #db5329;
     border-bottom: solid 4.6px #db5329;
+}
+footer
+{
+    color: rgb(46, 56, 91);
+    font-weight: bold;
 
+}
+button {
+    background-color:rgb(69, 138, 150);
+    border:none;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    border-radius: 30%;
 }
