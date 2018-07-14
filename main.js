@@ -1,3 +1,9 @@
+$(window).load(function() {
+    //animate loader
+    $("#loader").fadeOut("slow");
+}
+);
+
 //accessing contents
 var etycon=document.getElementById("etyc");
 var taxcon=document.getElementById("taxc");
