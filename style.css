@@ -1,0 +1,112 @@
+
+#loader
+{
+    position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: url("loader-128x/Preloader_6.gif") center no-repeat #fff;
+
+}
+#DD
+{
+    border-radius: 8px;
+    
+
+}
+h2{
+    
+    color: rgb(29, 84, 109);
+    background-color:rgba(222, 242, 72, 0.8);
+   font-family: "Courier";
+   display: inline;
+   padding: 2px 7px 3px 7px;
+   border: solid 2.5px #6d1fb7;
+   
+  
+}
+
+#ety
+{
+    color:darkgoldenrod;
+}
+#tax
+{
+    color:crimson;
+}
+#bio
+{
+    color:cornflowerblue;
+}
+#bree
+{
+    color:blueviolet;
+}
+.st
+{
+    color:magenta;
+}
+p
+{
+    color:rgb(139, 206, 57);
+    font-family: cursive;
+    font-weight: bold;
+    text-align: center;
+    
+}
+body{
+   
+    font-family:sans-serif;
+    font-size: 19px;
+    background-image: url("https://free4kwallpaper.com/wp-content/uploads/2016/01/Cutest-Dog-4K-Wallpaper.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    
+    
+}
+li a
+{
+    text-decoration: none;
+    color: rgb(65, 204, 90);
+    
+}
+ul
+{
+    list-style: none;
+    color: rgb(65, 204, 90);
+}
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-left: solid 4px #ff0000;
+    border-right: solid 4.2px #ff0000;
+    border-top: solid 4.6px #db5329;
+    border-bottom: solid 4.6px #db5329;
+}
+img:hover
+{
+    opacity: 0.5;
+}
+footer
+{
+    color: rgb(46, 56, 91);
+    font-weight: bold;
+
+}
+button {
+    background-color:rgb(69, 138, 150);
+    border:none;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    border-radius: 30%;
+}
